@@ -1,4 +1,4 @@
-## Environment Variables
+## Environment Variabless
 
 The application requires the following environment variables before execution:
 
